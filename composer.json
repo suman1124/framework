@@ -1,0 +1,17 @@
+{
+    "name": "barua_suman/frame_work",
+    "description": "Création d'un framework fait maison à but d'apprentissage de la programmation orientée objet en php",
+    "autoload": {
+        "psr-4": {
+            "BaruaSuman\\FrameWork\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "suman",
+            "email": "suman_paris2004@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
